@@ -7,4 +7,10 @@ An interactive Power BI dashboard project for analyzing sales data, visualizing 
 <br>
 <img src="https://github.com/sdhingole111/Sales_Data_Analysis_Dashboard_PowerBI/blob/8ce4ce6d7e2affe18846645701eab558f2e603bd/stock_category%20by%20quarter%20show.png" alt="Image description" width="800">
 
+<video width="600" controls>
+  <source src="Recording%202025-08-05%20223204.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
