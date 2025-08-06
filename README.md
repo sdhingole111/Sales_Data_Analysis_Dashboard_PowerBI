@@ -12,6 +12,6 @@ An interactive Power BI dashboard project for analyzing sales data, visualizing 
   Your browser does not support the video tag.
 </video>
 
-[![Watch the video](https://img.youtube.com/vi/znJGWMtk_EE/hqdefault.jpg)](https://www.youtube.com/watch?v=znJGWMtk_EE&t=1s)
+
 
 
